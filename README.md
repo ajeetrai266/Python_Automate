@@ -12,5 +12,5 @@ In this Code, Create Menu Using Python and Integrating tools/technology
 > AWS-CLI used,
 > Docker Technology Set-up,
 > Configure Web Server,
-> Open Browser,
+ > Open Browser,
 > Go for SSH Login.
