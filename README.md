@@ -4,7 +4,7 @@
 python3 mig.py
 https://github.com/ajeetrai266/Python_Automate/blob/main/mig.py
 In this Code, Create Menu Using Python and Integrating tools/technology
-#Menu List :
+# Menu List :
 Run RHEL8 Commands
 Online Python Interpreter
 Setup Hadoop Cluster 
