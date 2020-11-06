@@ -8,7 +8,7 @@ In this Code, Create Menu Using Python and Integrating tools/technology
 => Run RHEL8 Commands,
 => Online Python Interpreter,
 => Setup Hadoop Cluster,
-+> Create a Partition,
+=> Create a Partition,
 => AWS-CLI used,
 => Docker Technology Set-up,
 => Configure Web Server,
