@@ -2,6 +2,4 @@
 
 # This  Code is build for Run in Linux O.S.
 python3 mig.py
-
-
-# In this Code , Integrating the
+https://github.com/ajeetrai266/Python_Automate/blob/main/mig.py
